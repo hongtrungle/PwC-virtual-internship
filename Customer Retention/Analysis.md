@@ -1,4 +1,4 @@
-# :telephone: Case Study - Call Center Trends
+# ⌛ Case Study - Customer Retention
 # Analysis
 
 ---
